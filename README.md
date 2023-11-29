@@ -15,4 +15,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=12edder12&show_icons=true&locale=en&layout=compact" alt="12edder12" /></p>
 
 <h3 align="left">Mis proyectos:</h3>
-<p <a href= "https://articuloscueromanuel.netlify.app" target="_blank"> > Artículos de Cuero Manuel Naranjo </p>
+- [Artículos de Cuero Manuel Naranjo] (https://articuloscueromanuel.netlify.app/)
