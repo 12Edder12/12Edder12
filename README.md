@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Edder</h1>
-<h3 align="center">Soy un desarrollador de Ecuatoriano</h3>
+<h3 align="center">Soy un desarrollador Ecuatoriano</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=12edder12" alt="12edder12" /></a> </p>
 
