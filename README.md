@@ -1,13 +1,19 @@
-<h1 align="center">Hola 👋, soy Edder</h1>
-<h3 align="center">Soy un desarrollador Ecuatoriano</h3>
+<h1 align="center">Hi 👋, I'm Edder</h1>
+<h3 align="center">I'm a developer from Ecuador</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=12edder12" alt="12edder12" /></a> </p>
+🔭 I’m currently working on personal projects to improve my skills in web and software development.
 
-- 🌱 Estoy aprendiendo **GDScript, Python**
+🌱 I’m currently learning **Python**, while strengthening my skills in **React** and **Angular**.
 
-- 📫 Como me puedes contactar **edderman21@gmail.com**
+👨‍💻 You can find all of my projects at:  
+https://12edder12.github.io/
 
-- 📄 Conoce más sobre mí [https://12edder12.github.io/](https://12edder12.github.io/)
+💬 Ask me about **React, Angular, Python**, or web development in general.
 
-<h3 align="left">Mis proyectos:</h3>
-- [Pagina Usecipol] (https://www.usecipol.edu.ec/)
+👯 I’m looking to collaborate on challenging projects involving modern web technologies.
+
+📫 How to reach me: **edderman21@gmail.com**
+
+<h3 align="left">Featured Projects:</h3>
+
+- 🌐 [Usecipol Website](https://www.usecipol.edu.ec/)
