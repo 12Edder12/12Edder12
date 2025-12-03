@@ -5,7 +5,7 @@
 🌱 I’m currently learning **Python**, while strengthening my skills in **React** and **Angular**.
 
 👨‍💻 You can find all of my projects at:  
-https://12edder12.github.io/
+https://portfolio-5kup.vercel.app/
 
 💬 Ask me about **React, Angular, Python**, or web development in general.
 
